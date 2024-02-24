@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">HI, I AM CHANDAN GOWDA</h1>
+<h1 align="center">Hey, I AM CHANDAN GOWDA</h1>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm  from Karnataka <br><br>- 🔭 I’m working as Freelancer <br>- 📚 I'm currently learning B.Teach <br>- ⚡ In my free time I try to learn something New</p>
+<p align="left">I'm  from Karnataka <br><br>- 🔭 I’m working as a Freelancer <br>- 📚 I'm currently Pursuing B.Teach <br>- ⚡ In my free time I try to learn something New <br>- GYM Freak 🦾 </p>
 
 ###
 
