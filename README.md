@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm  from Karnataka <br><br>- 🔭 I’m working as a Freelancer <br>- 📚 I'm currently Pursuing B.Teach <br>- ⚡ In my free time I try to learn something New <br>- GYM Freak 🦾 </p>
+<p align="left">I'm  from Karnataka <br><br>- 🔭 I’m working as a Freelancer <br>- 📚 I'm currently Pursuing B.Teach <br>- ⚡ In my free time I try to learn something New <br>- 🦾 GYM Freak </p>
 
 ###
 
